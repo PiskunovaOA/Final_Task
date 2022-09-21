@@ -1,0 +1,15 @@
+D:\GeekBrains\Контрольная работа по 1 четверти\GIT\FinalTask\finalTask\bin\Debug\net6.0\finalTask.exe
+D:\GeekBrains\Контрольная работа по 1 четверти\GIT\FinalTask\finalTask\bin\Debug\net6.0\finalTask.deps.json
+D:\GeekBrains\Контрольная работа по 1 четверти\GIT\FinalTask\finalTask\bin\Debug\net6.0\finalTask.runtimeconfig.json
+D:\GeekBrains\Контрольная работа по 1 четверти\GIT\FinalTask\finalTask\bin\Debug\net6.0\finalTask.dll
+D:\GeekBrains\Контрольная работа по 1 четверти\GIT\FinalTask\finalTask\bin\Debug\net6.0\finalTask.pdb
+D:\GeekBrains\Контрольная работа по 1 четверти\GIT\FinalTask\finalTask\obj\Debug\net6.0\finalTask.csproj.AssemblyReference.cache
+D:\GeekBrains\Контрольная работа по 1 четверти\GIT\FinalTask\finalTask\obj\Debug\net6.0\finalTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Контрольная работа по 1 четверти\GIT\FinalTask\finalTask\obj\Debug\net6.0\finalTask.AssemblyInfoInputs.cache
+D:\GeekBrains\Контрольная работа по 1 четверти\GIT\FinalTask\finalTask\obj\Debug\net6.0\finalTask.AssemblyInfo.cs
+D:\GeekBrains\Контрольная работа по 1 четверти\GIT\FinalTask\finalTask\obj\Debug\net6.0\finalTask.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Контрольная работа по 1 четверти\GIT\FinalTask\finalTask\obj\Debug\net6.0\finalTask.dll
+D:\GeekBrains\Контрольная работа по 1 четверти\GIT\FinalTask\finalTask\obj\Debug\net6.0\refint\finalTask.dll
+D:\GeekBrains\Контрольная работа по 1 четверти\GIT\FinalTask\finalTask\obj\Debug\net6.0\finalTask.pdb
+D:\GeekBrains\Контрольная работа по 1 четверти\GIT\FinalTask\finalTask\obj\Debug\net6.0\finalTask.genruntimeconfig.cache
+D:\GeekBrains\Контрольная работа по 1 четверти\GIT\FinalTask\finalTask\obj\Debug\net6.0\ref\finalTask.dll
